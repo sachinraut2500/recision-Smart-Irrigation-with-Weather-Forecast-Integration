@@ -4,6 +4,8 @@
 This project implements a **Precision Irrigation System** using **IoT + Weather API + MQTT**.  
 It combines **soil sensors, weather forecasting, and automation** to optimize water usage.  
 
+---
+
 The system has **two components**:
 1. **ESP32 Node** – Collects **soil moisture, temperature, humidity** and controls pump locally.  
 2. **Raspberry Pi Gateway** – Receives sensor data, fetches **real-time weather**, and makes smarter irrigation decisions.
