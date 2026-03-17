@@ -9,7 +9,7 @@ It combines **soil sensors, weather forecasting, and automation** to optimize wa
 The system has **two components**:
 1. **ESP32 Node** – Collects **soil moisture, temperature, humidity** and controls pump locally.  
 2. **Raspberry Pi Gateway** – Receives sensor data, fetches **real-time weather**, and makes smarter irrigation decisions.
-
+----
 -------------------------
 
 ## ⚙️ Features
