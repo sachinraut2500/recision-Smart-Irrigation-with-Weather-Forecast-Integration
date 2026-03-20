@@ -27,7 +27,7 @@ The system has **two components**:
 - **Relay module + water pump**  
 - **Raspberry Pi** (running Python 3)  
 
----
+------
 
 ## 🧑‍💻 Software Requirements
 - MicroPython on ESP32  
