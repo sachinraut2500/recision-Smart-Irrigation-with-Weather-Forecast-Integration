@@ -1,5 +1,5 @@
 # 🌱 Smart Agriculture IoT System
--------
+----------
 ## 📖 Overview
 This project implements a **Precision Irrigation System** using **IoT + Weather API + MQTT**.  
 It combines **soil sensors, weather forecasting, and automation** to optimize water usage.  
