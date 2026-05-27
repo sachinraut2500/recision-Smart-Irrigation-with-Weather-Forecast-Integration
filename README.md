@@ -26,7 +26,7 @@ The system has **two components**:
 - **DHT11 sensor** (temp & humidity)  
 - **Relay module + water pump**  
 - **Raspberry Pi** (running Python 3)  
--------
+----------
 ------------------------------
 
 ## 🧑‍💻 Software Requirements
