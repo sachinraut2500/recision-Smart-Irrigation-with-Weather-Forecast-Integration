@@ -18,7 +18,9 @@ The system has **two components**:
 - MQTT communication between ESP32 & Raspberry Pi  
 - Weather forecast integration (using [WeatherAPI](https://www.weatherapi.com/))  
 - Smart irrigation decisions (avoids watering before rain 🌧)  
-- Cloud-ready (can be extended to AWS IoT, Azure, ThingsBoard, etc.)  
+- Cloud-ready (can be extended to AWS IoT, Azure, ThingsBoard, etc.)
+
+  ------
 
 ## 🛠 Hardware Requirements
 - **ESP32** (with MicroPython firmware)  
