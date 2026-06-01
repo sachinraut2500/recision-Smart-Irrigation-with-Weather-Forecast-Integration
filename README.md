@@ -20,7 +20,7 @@ The system has **two components**:
 - Smart irrigation decisions (avoids watering before rain 🌧)  
 - Cloud-ready (can be extended to AWS IoT, Azure, ThingsBoard, etc.)
 
-  ------
+  ---------
 
 ## 🛠 Hardware Requirements
 - **ESP32** (with MicroPython firmware)  
